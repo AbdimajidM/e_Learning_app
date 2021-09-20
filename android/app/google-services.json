@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945864916804",
+    "project_id": "e-learning-project-bf8c7",
+    "storage_bucket": "e-learning-project-bf8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945864916804:android:b7f5084589bcf3944a6111",
+        "android_client_info": {
+          "package_name": "racayaam.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945864916804-b1dsbg1hptvuoaml282d8odlhl729spj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxqN62W9CSIemuOmdnMyewbWVW9QY_tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945864916804-b1dsbg1hptvuoaml282d8odlhl729spj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
